@@ -5,7 +5,7 @@
 *.jar
 *.ear
 *.war
-
+ToolsShop/*
 .gradle
 /local.properties
 .DS_Store
